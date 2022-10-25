@@ -2,7 +2,7 @@
 
 Yg Mau Sv Nomerku?
 
-wa.me/6285875158363
+wa.me/6289504998484
 
 Minimal Kasih Cr kalo mau reupload😡
 Create By Dika Ardnt.
@@ -13,7 +13,7 @@ Yg Reupload Tanpa Kasih Cr
 Sc Akan Saya Encode
 
 Base : Hisoka
-Recode : Naze & ( Nama Lu )
+Recode : Naze & ( CLOWN STORE )
 
 **/
 
@@ -31,11 +31,11 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['6285875158363']
-global.ownernomer = "6285875158363"
-global.premium = ['6285875158363']
-global.packname = 'Sticker By'
-global.author = 'Naze Dev'
+global.owner = ['6289504998484']
+global.ownernomer = "6289504998484"
+global.premium = ['6289504998484']
+global.packname = 'Sticker By CLOWN BOT'
+global.author = 'CLOWN STORE'
 global.sessionName = 'nazedev'  //jangan diganti bro nanti error
 global.jumlha = '999'
 global.jumhal = '100000000000000'
